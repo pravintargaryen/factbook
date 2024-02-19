@@ -4,7 +4,7 @@ Factbook Encyclopedia for educational social good custom trained on CIA world fa
 
 ## Screenshot
 
-![screenshot](https://cdn-langchain.netlify.app/2.png)
+![screenshot](https://cdn-langchain.netlify.app/factbook.png)
 
 ## Demo
 
