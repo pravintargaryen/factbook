@@ -1,5 +1,4 @@
 import { useState } from "react";
-import logoImage from "./assets/rectangular.png";
 
 const App = () => {
   const [text, setText] = useState("");
@@ -39,17 +38,6 @@ const App = () => {
 
   return (
     <div className="chat-bot">
-      <div className="chat-header">
-        <div className="info-container">
-          <img
-            src={logoImage}
-            alt="Logo"
-            width={200}
-            height={200}
-            className="logo"
-          />
-        </div>
-      </div>
       <div className="feed">
         {messages?.map((message, _index) => (
           <div key={_index}>
@@ -66,7 +54,7 @@ const App = () => {
         onChange={(e) => setText(e.target.value)}
       />
       <button id="input-button" onClick={getResponse}>
-        ⇨
+        👆
       </button>
     </div>
   );
