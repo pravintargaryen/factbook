@@ -1,6 +1,6 @@
 # Overview
 
-Factbook Encyclopedia for educational social good custom trained on CIA world factbook Dataset using Langchain and built with React ❤️ & Google Gemini
+Factbook Encyclopedia 📚 for educational social good custom trained on CIA world factbook Dataset using Langchain and built with React ❤️ & Google Gemini
 
 ## Screenshot
 
