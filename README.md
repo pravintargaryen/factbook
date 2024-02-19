@@ -1,11 +1,6 @@
 # Overview
 
-Welcome to Rectangular - your React & Angular Companion and built with React ❤️
-
-## Improvements Needed
-
-Prompting with input code
-Long Prompts
+Factbook Encyclopedia for educational social good custom trained on CIA world factbook Dataset using Langchain and built with React ❤️ & Google Gemini
 
 ## Screenshot
 
@@ -13,7 +8,7 @@ Long Prompts
 
 ## Demo
 
-Demo app at [Netlify](https://c-ai.netlify.app/)
+Demo app at [Netlify](https://factbookreact.netlify.app/)
 
 ## Contributions
 
